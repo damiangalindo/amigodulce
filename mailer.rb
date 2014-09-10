@@ -47,6 +47,8 @@ Recuerda: La cuota del regalo son $15.000
 Si eres alergico o tienes preferencias (discriminaciones) por algun dulce
 en particular, comunicalo publicamente.
 
+La entrega de regalos será el domingo 21 de Septiembre a las 9:30 de la noche, en Benito Juarez (cra 46 # 85)
+
     HERE
   end
 
@@ -55,7 +57,7 @@ en particular, comunicalo publicamente.
   puts "Password"
   password = gets
   mailer = Mailer.new(username, password)
-  from = "demian007@gmail.com"
+  from = "amigodulce@gmail.com"
   subject = "Amigo Dulce"
   mails = YAML.load_file("mails.yml")
   mails.each do |url, email|
