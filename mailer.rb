@@ -45,8 +45,7 @@ Recuerda: La cuota del regalo son $15.000
 ** Solamente Dulces/Postres/Cerveza/InserteSuConsumibleAqui **
 
 Si eres alergico o tienes preferencias (discriminaciones) por algun dulce
-en particular, escribe un PostIt con tu nombre y el dulce y pegalo en un
-lugar visible. O comunicalo publicamente.
+en particular, comunicalo publicamente.
 
     HERE
   end
