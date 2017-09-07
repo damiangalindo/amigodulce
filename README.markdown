@@ -28,4 +28,3 @@ Ejemplo de people.yml:
 --
 
 Jose F. Gomez
-
