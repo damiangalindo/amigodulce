@@ -1,3 +1,5 @@
 source 'https://rubygems.org'
 gem 'sinatra'
 gem 'pony'
+gem 'sendgrid-ruby'
+gem 'json'
